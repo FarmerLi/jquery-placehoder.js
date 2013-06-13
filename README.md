@@ -1,4 +1,4 @@
 jquery placeholder plugin
 ===
 
-解决IE下placeholder不可用的问题
+瑙ｅ喅IE涓媝laceholder涓嶅彲鐢ㄧ殑闂
